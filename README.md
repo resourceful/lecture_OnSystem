@@ -24,7 +24,7 @@
 | 13 | 2017-05-29 | 1 | Tserennadmid Batgerel | Paper | Conference |
 |   |   | 2 | Lee, dong-su | Paper | Conference |
 | 14 | 2017-06-05 | 1 | Asmat Ullah | Passive Wi-Fi : Bringing Low Power to Wi-Fi Transmission | NSDI 16 |
-|   |   | 2 | Tserennadmid Batgerel | Paper | Conference |
+|   |   | 2 | Tserennadmid Batgerel | Big Data Analytics over Encrypted Datasets with Seabed |ATC 16 |
 | 15 | 2017-06-12 | 1 | Tsogbayr (Tsogo) | Paper | Conference |
 |   |   | 2 | Lee, Keon-Pyo | Paper | Conference |
 | 16 | 2017-06-19 | 1 | Hayat Bashir | DQBarge: Improving data-quality tradeoffs in large-scale Internate Services | OSDI-16 |
