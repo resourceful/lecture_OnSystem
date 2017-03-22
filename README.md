@@ -17,8 +17,7 @@
 |   |   | 2 | Park, Ju-Hyeok | Paper | Conference |
 | 10 | 2017-05-08 | 1 | Tsogbayr (Tsogo) | Realizing the fault tolerance promise of cloud storage using lock with intent | OSDI16 |
 |   |   | 2 | Lee, Keon-Pyo | Paper | Conference |
-| 11 | 2017-05-15 | 1 | Ihtisham Ali | Getting Back Up: Understanding How
-Enterprise Data Backups Fail | (USENIX ATC ’16). |
+| 11 | 2017-05-15 | 1 | Ihtisham Ali | Getting Back Up: Understanding How Enterprise Data Backups Fail | (USENIX ATC ’16). |
 |   |   | 2 | ijaz | towards automated slos for enterprise clusters| osdi 2016 |
 | 12 | 2017-05-22 | 1 | Lee, dong-su | Paper | Conference |  
 |   |   | 2 | Ihtisham Ali | File Systems Fated for Senescene? Nonsense, Says Science | FAST 17 |
