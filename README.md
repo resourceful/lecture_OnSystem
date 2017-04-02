@@ -13,7 +13,7 @@
 |   |   | 2 | Asmat Ullah | Energy Discounted Computing on Multicore Smartphones | ATC 16 |
 | 8 | 2017-04-24 | 1 | Hayat Bashir | Cheap and Available State machine Replication | ATC 16 |
 |   |   | 2 | Park, Ju-Hyeok | Light-weight Contexts: An OS Abstraction for Safety and Performance | OSDI16 |
-| 9 | 2017-05-01 | 1 | Ihtisham Ali | Redundancy Does Not Imply Fault Tolerance: Analsysis of Distributed Storage Reactions to Single Errors and Corruption | FAST 17 |
+| 9 | 2017-05-01 | 1 | Ihtisham Ali | Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks | Sec 16 |
 |   |   | 2 | Park, Ju-Hyeok | Paper | Conference |
 | 10 | 2017-05-08 | 1 | Tsogbayr (Tsogo) | Realizing the fault tolerance promise of cloud storage using lock with intent | OSDI16 |
 |   |   | 2 | Lee, Keon-Pyo | Paper | Conference |
