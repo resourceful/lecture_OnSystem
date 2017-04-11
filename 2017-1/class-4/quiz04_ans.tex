@@ -1,0 +1,198 @@
+\documentclass[addpoints, answers,  10pt]{exam}
+\usepackage[total={210mm,297mm},
+            top=1.5cm, left=1cm, right=1.5cm, bottom=1.5cm, includefoot]{geometry}
+
+\begin{document}
+
+\pagestyle{headandfoot}
+\firstpageheader{\bfseries\large System Software}{\bfseries\large Quiz }{\bfseries\large \today}
+\runningheader{\bfseries\large System Software}{\bfseries\large Quiz }{\bfseries\large Continued}
+\firstpagefooter{}{}{}
+\runningfooter{}{}{Page \thepage ~of \numpages}
+\firstpageheadrule
+\runningheadrule
+
+\hfill \makebox[0.5\textwidth]{Name:\enspace\hrulefill}
+
+\boxedpoints
+{\bfseries Part 1: Instant OS Updates via Userspace Checkpoint-and-Restart }
+
+\begin{questions}
+
+
+\question What is the main idea for Instant OS updates in this paper?
+\begin{solutionorlines}[2cm]
+ a userspace checkpoint-and-restart mechanism
+\end{solutionorlines}
+
+
+\question What are the problems pointed out in this paper?
+\begin{solutionorlines}[2cm]
+ To complete  updates, users must reboot their systems, resulting in unavoidable downtime and further loss of the states of running applications. 
+\end{solutionorlines}
+
+
+\question What is the significance of this paper's solution?
+\begin{solutionorlines}[2cm]
+ instant kernel updates spanning across major kernel versions without any kernel modifications. 
+\end{solutionorlines}
+
+
+
+\question Why those OS update topic is important? 
+\begin{solutionorlines}[2cm]
+ OS have become complex and more prone to problem, OS update to solve these issues 
+\end{solutionorlines}
+
+
+\question What are the three components of an existing OS update?
+\begin{solutionorlines}[2cm]
+ Stop service, Soft reboot, Start service
+\end{solutionorlines}
+
+
+\question What are the KUP’s lifecycle?(3step)
+\begin{solutionorlines}[2cm]
+ checkpoint, In-kernel switch, Restart
+\end{solutionorlines}
+
+
+\question What kind of method they are used for reducing downtime?
+\begin{solutionorlines}[2cm]
+ incremental checkpoint and on-demand restore
+\end{solutionorlines}
+
+
+
+\question What is the properties on Incremental checkpoint?
+\begin{solutionorlines}[2cm]
+ Multiple snapshots
+\end{solutionorlines}
+
+\newpage
+\question What kind of method they are used for inefficient C/R?
+\begin{solutionorlines}[2cm]
+ file offset-based address mapping (FOAM), and persistent physical pages (PPP)
+\end{solutionorlines}
+
+
+\question What kind of socket can be provided KUP?
+\begin{solutionorlines}[2cm]
+ TCP, UDP, netlink
+\end{solutionorlines}
+
+
+\question What is the factor to affect FOAM?
+\begin{solutionorlines}[2cm]
+ number of cache to-disk writes
+\end{solutionorlines}
+
+
+
+\question Why KUP has failure during restoration?
+\begin{solutionorlines}[2cm]
+ System call is removal or interface modification
+\end{solutionorlines}
+
+
+\question What kind of techniques are employed by KUP?
+\begin{solutionorlines}[2cm]
+Ⅰ. FOAM, New data abstraction for app C/R
+	    Ⅱ. Fast in-kernel switching technique
+          Ⅲ. PPP, reuse memory without an explicit dump,
+\end{solutionorlines}
+
+
+\question What is the meaning of this paper?
+\begin{solutionorlines}[2cm]
+ first work that realizes swift kernel updates without modifying any kernel source. 
+\end{solutionorlines}
+
+
+{\bfseries Part 2: Unsafe time handling in Smartphones }
+
+
+
+\question What was the purpose of this paper?
+\begin{solutionorlines}[2cm]
+ First study of new class of software bugs on smartphones called sleep-included time bugs, and detect it
+\end{solutionorlines}
+
+\question What problems solved this paper?
+\begin{solutionorlines}[2cm]
+ Tool detects SITBs. It can help to Battery and Time Usage
+\end{solutionorlines}
+\newpage
+\question What was the solution?
+\begin{solutionorlines}[2cm]
+ They created novel tool KLOCK
+\end{solutionorlines}
+
+\question What are current, main problems of smartphones?
+\begin{solutionorlines}[2cm]
+ Power requirement, Power supply, Battery life
+\end{solutionorlines}
+
+\question What is mean of CLOCK\_REALTIME function?
+\begin{solutionorlines}[2cm]
+ first read the real time clock during the kernel initialization phase and then later updated at every tick
+\end{solutionorlines}
+
+
+\question What is mean of CLOCK\_BOOTTIME function?
+\begin{solutionorlines}[2cm]
+ gives the time elapsed since the boot time
+\end{solutionorlines}
+
+\question What is SITB?
+\begin{solutionorlines}[2cm]
+ Sleep-included time bugs
+\end{solutionorlines}
+
+\question What are 4 categories of time usages in Android?
+\begin{solutionorlines}[2cm]
+ Timed callback, Time settings, Time Arithmetic, Logging
+\end{solutionorlines}
+
+\question What is usage pattern of Timed Callback?
+\begin{solutionorlines}[2cm]
+ code wishes to perform a certain task at future time. 
+\end{solutionorlines}
+
+\question What is usage pattern of Time Settings?
+\begin{solutionorlines}[2cm]
+ the subject code updates the current system time
+\end{solutionorlines}
+
+\newpage
+{\bfseries Part 3: Questions or presenters}
+
+\question What implications does the work has on your research
+\begin{solutionorlines}[5cm]
+.
+\end{solutionorlines}
+
+
+\question What are the limitations of the work
+\begin{solutionorlines}[5cm]
+.
+\end{solutionorlines}
+
+
+\question If you are to improve the work, how would you enhance the work
+\begin{solutionorlines}[5cm]
+.
+\end{solutionorlines}
+
+
+
+
+
+
+
+
+\end{questions}
+
+
+
+\end{document}
