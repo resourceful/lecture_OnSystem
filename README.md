@@ -12,10 +12,10 @@
 |   |   | 2 | Asmat Ullah | Energy Discounted Computing on Multicore Smartphones | ATC 16 |
 |   |   | 3 | Tserennadmid Batgerel | Testing Error Handling Code in Device Drivers Using Characteristic Fault injection (2/2) | ATC 16 |
 | 8 | 2017-04-24 | 1 | Hayat Bashir | Cheap and Available State machine Replication | ATC 16 |
-|   |   | 2 | Park, Ju-Hyeok | Light-weight Contexts: An OS Abstraction for Safety and Performance | OSDI16 |
+|   |   | 2 | Park, Ju-Hyeok | Light-weight Contexts: An OS Abstraction for Safety and Performance | OSDI-16 |
 |   |   | 3 | ijaz | T.B.D | osdi 2016|
 | 9 | 2017-05-01 | 1 | Ihtisham Ali | Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks | Sec 16 |
-|   |   | 2 | Park, Ju-Hyeok | The SNOW Theorem and Latency-Optimal Read-Only Transactions | osdi16 |
+|   |   | 2 | Park, Ju-Hyeok | The SNOW Theorem and Latency-Optimal Read-Only Transactions | OSDI-16 |
 | 10 | 2017-05-08 | 1 | Tsogbayr (Tsogo) | Realizing the fault tolerance promise of cloud storage using lock with intent | OSDI16 |
 |   |   | 2 | Lee, Keon-Pyo | gScale: Scaling up GPU Virtualization with Dynamic Sharing of Graphics Memory Space | ATC 16 |
 | 11 | 2017-05-15 | 1 | Ihtisham Ali | Getting Back Up: Understanding How Enterprise Data Backups Fail | (USENIX ATC ’16). |
@@ -29,5 +29,5 @@
 | 15 | 2017-06-12 | 1 | Tsogbayr (Tsogo) | Paper | Conference |
 |   |   | 2 | Lee, Keon-Pyo | Machine-aware Atomic Broadcast Trees for Multicores | OSDI 16 |
 | 16 | 2017-06-19 | 1 | Hayat Bashir | DQBarge: Improving data-quality tradeoffs in large-scale Internate Services | OSDI-16 |
-|   |   | 2 | Park, Ju-Hyeok | Paper | Conference |
+|   |   | 2 | Park, Ju-Hyeok | Realizing the fault-tolerance promise of cloud storage using locks with intent  | OSDI-16 |
 |   |   | 3 | Asmat Ullah | Low Latency Networking with the OS Stack and Dedicated NICs | ATC 16 |
