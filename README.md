@@ -15,7 +15,7 @@
 |   |   | 2 | Park, Ju-Hyeok | Light-weight Contexts: An OS Abstraction for Safety and Performance | OSDI16 |
 |   |   | 3 | ijaz | T.B.D | osdi 2016|
 | 9 | 2017-05-01 | 1 | Ihtisham Ali | Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks | Sec 16 |
-|   |   | 2 | Park, Ju-Hyeok | Paper | Conference |
+|   |   | 2 | Park, Ju-Hyeok | The SNOW Theorem and Latency-Optimal Read-Only Transactions | osdi16 |
 | 10 | 2017-05-08 | 1 | Tsogbayr (Tsogo) | Realizing the fault tolerance promise of cloud storage using lock with intent | OSDI16 |
 |   |   | 2 | Lee, Keon-Pyo | gScale: Scaling up GPU Virtualization with Dynamic Sharing of Graphics Memory Space | ATC 16 |
 | 11 | 2017-05-15 | 1 | Ihtisham Ali | Getting Back Up: Understanding How Enterprise Data Backups Fail | (USENIX ATC ’16). |
