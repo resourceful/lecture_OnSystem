@@ -21,12 +21,10 @@
 | 11|  2017-05-15 | 1 | Lee, Keon-Pyo | gScale: Scaling up GPU Virtualization with Dynamic Sharing of Graphics Memory Space | ATC 16 |
 |   |   | 1 | Ihtisham Ali | Getting Back Up: Understanding How Enterprise Data Backups Fail | (USENIX ATC ’16). |
 |   |   | 3 | ijaz | towards automated slos for enterprise clusters| osdi 2016 |
-| 12 | 2017-05-22 | 1 | Lee, dong-su | Omid,Reloaded: ScalableandHighly-AvailableTransactionProcessing
- | FAST 17 |  
+| 12 | 2017-05-22 | 1 | Lee, dong-su | Omid,Reloaded: ScalableandHighly-AvailableTransactionProcessing | FAST 17 |  
 |   |   | 2 | Ihtisham Ali | File Systems Fated for Senescene? Nonsense, Says Science | FAST 17 |
 | 13 | 2017-05-29 | 1 | Tserennadmid Batgerel | Paper | Conference |
-|   |   | 2 | Lee, dong-su | Algorithms and Data Structures for Efﬁcient Free Space Reclamation in WAFL
- | FAST 17 |
+|   |   | 2 | Lee, dong-su | Algorithms and Data Structures for Efﬁcient Free Space Reclamation in WAFL | FAST 17 |
 | 14 | 2017-06-05 | 1 | Asmat Ullah | Passive Wi-Fi : Bringing Low Power to Wi-Fi Transmission | NSDI 16 |
 |   |   | 2 | Tserennadmid Batgerel | Big Data Analytics over Encrypted Datasets with Seabed |ATC 16 |
 | 15 | 2017-06-12 | 1 | Tsogbayr (Tsogo) | Paper | Conference |
