@@ -8,18 +8,19 @@
 | 5 | 2017-04-03  | 1 | Hayat Bashir | Filo: Consolidated consensus as a cloud services | ATC 16 |
 | 6 | 2017-04-10 | 1 | ijaz | intremittent computatio without hardware support or programmer intervention | osdi 2016|
 |   |   | 2 | Tserennadmid Batgerel | Testing Error Handling Code in Device Drivers Using Characteristic Fault injection (1/2) | ATC 16 |
-| 7 | 2017-04-17 | 1 | Lee, Keon-Pyo | Multicore Locks: The Case is not Closed Yet | ATC 16 |
+| 7 | 2017-04-17 |  | No class |  |
+| 8 | 2017-04-24 | 1 | Lee, Keon-Pyo | Multicore Locks: The Case is not Closed Yet | ATC 16 |
 |   |   | 2 | Asmat Ullah | Energy Discounted Computing on Multicore Smartphones | ATC 16 |
 |   |   | 3 | Tserennadmid Batgerel | Testing Error Handling Code in Device Drivers Using Characteristic Fault injection (2/2) | ATC 16 |
-| 8 | 2017-04-24 | 1 | Hayat Bashir | Cheap and Available State machine Replication | ATC 16 |
+| 9 | 2017-05-01 | 1 | Hayat Bashir | Cheap and Available State machine Replication | ATC 16 |
 |   |   | 2 | Park, Ju-Hyeok | Light-weight Contexts: An OS Abstraction for Safety and Performance | OSDI-16 |
 |   |   | 3 | ijaz | T.B.D | osdi 2016|
-| 9 | 2017-05-01 | 1 | Ihtisham Ali | Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks | Sec 16 |
+| 10 | 2017-05-08 | 1 | Ihtisham Ali | Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks | Sec 16 |
 |   |   | 2 | Park, Ju-Hyeok | The SNOW Theorem and Latency-Optimal Read-Only Transactions | OSDI-16 |
-| 10 | 2017-05-08 | 1 | Tsogbayr (Tsogo) | Realizing the fault tolerance promise of cloud storage using lock with intent | OSDI16 |
-|   |   | 2 | Lee, Keon-Pyo | gScale: Scaling up GPU Virtualization with Dynamic Sharing of Graphics Memory Space | ATC 16 |
-| 11 | 2017-05-15 | 1 | Ihtisham Ali | Getting Back Up: Understanding How Enterprise Data Backups Fail | (USENIX ATC ’16). |
-|   |   | 2 | ijaz | towards automated slos for enterprise clusters| osdi 2016 |
+|   |   | 3 | Tsogbayr (Tsogo) | Realizing the fault tolerance promise of cloud storage using lock with intent | OSDI16 |
+| 11|  2017-05-15 | 1 | Lee, Keon-Pyo | gScale: Scaling up GPU Virtualization with Dynamic Sharing of Graphics Memory Space | ATC 16 |
+|   |   | 1 | Ihtisham Ali | Getting Back Up: Understanding How Enterprise Data Backups Fail | (USENIX ATC ’16). |
+|   |   | 3 | ijaz | towards automated slos for enterprise clusters| osdi 2016 |
 | 12 | 2017-05-22 | 1 | Lee, dong-su | Paper | Conference |  
 |   |   | 2 | Ihtisham Ali | File Systems Fated for Senescene? Nonsense, Says Science | FAST 17 |
 | 13 | 2017-05-29 | 1 | Tserennadmid Batgerel | Paper | Conference |
