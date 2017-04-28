@@ -14,7 +14,7 @@
 |   |   | 3 | Tserennadmid Batgerel | Testing Error Handling Code in Device Drivers Using Characteristic Fault injection (2/2) | ATC 16 |
 | 9 | 2017-05-01 | 1 | Hayat Bashir | Cheap and Available State machine Replication | ATC 16 |
 |   |   | 2 | Park, Ju-Hyeok | Light-weight Contexts: An OS Abstraction for Safety and Performance | OSDI-16 |
-|   |   | 3 | ijaz | T.B.D | osdi 2016|
+|   |   | 3 | ijaz | Algorithms and Data Structures for Efficient Free Space Reclamation in WAFL | osdi 2016|
 | 10 | 2017-05-08 | 1 | Ihtisham Ali | Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks | Sec 16 |
 |   |   | 2 | Park, Ju-Hyeok | The SNOW Theorem and Latency-Optimal Read-Only Transactions | OSDI-16 |
 |   |   | 3 | Tsogbayr (Tsogo) | Realizing the fault tolerance promise of cloud storage using lock with intent | OSDI16 |
