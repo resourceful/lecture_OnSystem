@@ -20,9 +20,8 @@
 |   |   | 3 | Tsogbayr (Tsogo) | Realizing the fault tolerance promise of cloud storage using lock with intent | OSDI16 |
 | 11|  2017-05-15 | 1 |  Ihtisham Ali | Getting Back Up: Understanding How Enterprise Data Backups Fail | (USENIX ATC ’16). |
 |   |   | 2 | ijaz | towards automated slos for enterprise clusters| osdi 2016 |
-| 12 | 2017-05-22 | 1 | Park, Ju-Hyeok | The SNOW Theorem and Latency-Optimal Read-Only Transactions | OSDI-16 |
-|   |   | 2 | Ihtisham Ali | Making USB Great Again with USBFILTER | USENIX Security 16|
-|   |   | 3 | Lee, Keon-Pyo | gScale: Scaling up GPU Virtualization with Dynamic Sharing of Graphics Memory Space | ATC 16 |
+| 12 | 2017-05-22 | 1 |  Ihtisham Ali | Making USB Great Again with USBFILTER | USENIX Security 16|
+|   |   | 2 | Lee, Keon-Pyo | gScale: Scaling up GPU Virtualization with Dynamic Sharing of Graphics Memory Space | ATC 16 |
 | 13 | 2017-05-29 | 1 | Tserennadmid Batgerel |Alpenhorn: Bootstrapping Secure Communication without Leaking Metadata| OSDI16 |
 |   |   | 2 | Lee, dong-su | Algorithms and Data Structures for Efﬁcient Free Space Reclamation in WAFL | FAST 17 |
 |   |   | 3 | Park, Ju-Hyeok | The SNOW Theorem and Latency-Optimal Read-Only Transactions | OSDI-16 |
